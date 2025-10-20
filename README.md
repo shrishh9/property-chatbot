@@ -2,17 +2,17 @@
 
 An intelligent property search chatbot that uses natural language processing to help users find properties based on their requirements. Built with Flask backend API and Next.js frontend interface.
 
-## 🌟 Features
+##  Features
 
-- 🤖 **Natural Language Query Understanding** - Ask questions in plain English
-- 🔍 **Smart Property Filtering** - Filter by BHK, price, location, and status
-- 💬 **ChatGPT-style Interface** - Modern conversational UI
-- 📊 **Real-time Search Results** - Instant property cards display
-- 🎨 **Responsive Design** - Works on desktop and mobile
-- 🏷️ **Intelligent Greeting Handling** - Friendly bot interactions
-- 📈 **83+ Properties Database** - CSV-based property data
+-  **Natural Language Query Understanding** - Ask questions in plain English
+-  **Smart Property Filtering** - Filter by BHK, price, location, and status
+-  **ChatGPT-style Interface** - Modern conversational UI
+-  **Real-time Search Results** - Instant property cards display
+-  **Responsive Design** - Works on desktop and mobile
+-  **Intelligent Greeting Handling** - Friendly bot interactions
+-  **83+ Properties Database** - CSV-based property data
 
-## 🚀 Live Demo
+##  Live Demo
 
 - **Frontend:** [[https://your-app.netlify.app](https://68f62bc760a0a000085cb45f--velvety-alpaca-ef6033.netlify.app/)]
 - **Backend API:** [[https://property-chatbot-w9rn.onrender.com](https://property-chatbot-w9rn.onrender.com/)]
@@ -26,7 +26,7 @@ An intelligent property search chatbot that uses natural language processing to 
 - "Office space in Mumbai" - Search commercial properties
 - "Show me all properties" - Browse all available listings
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework**: Next.js 15 (React 19)
@@ -45,7 +45,7 @@ An intelligent property search chatbot that uses natural language processing to 
 - **Frontend**: Netlify / Vercel
 - **Backend**: Render
 - **Version Control**: GitHub
-- ## 🚀 Getting Started
+- ##  Getting Started
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ NEXT_PUBLIC_API_URL=https://property-chatbot-w9rn.onrender.com/api
 FLASK_ENV=development
 PORT=5000
 
-## 📊 Data Structure
+##  Data Structure
 
 The chatbot works with CSV files containing property data:
 
@@ -132,7 +132,7 @@ GET /api/health
 ### Get All Properties
 GET /api/properties
 
-## 🎯 Query Parser Features
+## Query Parser Features
 
 The NLP engine understands:
 
@@ -152,7 +152,7 @@ The NLP engine understands:
 
 text
 
-## 🌐 Deployment
+##  Deployment
 
 ### Deploy Backend to Render
 
@@ -179,7 +179,7 @@ text
 - `NEXT_PUBLIC_API_URL=https://your-backend-url.onrender.com/api`
 7. Deploy!
 
-## 🧪 Testing
+##  Testing
 
 ### Test Backend API
 Health check
