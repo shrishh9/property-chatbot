@@ -32,17 +32,14 @@ An intelligent property search chatbot that uses natural language processing to 
 - **Framework**: Next.js 15 (React 19)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **HTTP Client**: Axios
-- **Icons**: Lucide React
 
 ### Backend
 - **Framework**: Flask (Python)
 - **Data Processing**: Pandas, NumPy
 - **Web Server**: Gunicorn
-- **CORS**: Flask-CORS
 
 ### Deployment
-- **Frontend**: Netlify / Vercel
+- **Frontend**: Netlify
 - **Backend**: Render
 - **Version Control**: GitHub
 - ##  Getting Started
