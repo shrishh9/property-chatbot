@@ -182,3 +182,16 @@ text
 ## 🧪 Testing
 
 ### Test Backend API
+Health check
+curl http://localhost:5000/api/health
+
+Chat endpoint
+curl -X POST http://localhost:5000/api/chat
+-H "Content-Type: application/json"
+-d '{"message": "3BHK in Pune under 1.2 Cr"}'
+
+
+### Test Frontend
+
+npm run build # Build production version
+npm run start # Run production build
